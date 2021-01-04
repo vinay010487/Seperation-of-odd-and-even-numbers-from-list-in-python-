@@ -1,0 +1,1 @@
+# Seperation-of-odd-and-even-numbers-from-list-in-python-
